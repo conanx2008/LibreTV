@@ -1,6 +1,6 @@
 // wrangler.jsonc
 {
-  "name": "你的项目名称-随便起",           // 建议和 Pages 项目名保持一致
+  "name": "libretv",           // 建议和 Pages 项目名保持一致
   "compatibility_date": "2025-10-01",     // 用当前或未来日期都可以
   "main": "server.mjs"
 }
